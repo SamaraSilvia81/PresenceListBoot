@@ -1,4 +1,4 @@
-![PresenceListBootLogo]()
+![PresenceListBootLogo](https://user-images.githubusercontent.com/100232025/236637072-23b7c05b-e944-490f-83e0-5b2c31e9a18f.gif)
 # Projeto Presence List - React JS + Spring Boot Web
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=EA4689&style=for-the-badge)
 
@@ -54,7 +54,7 @@ Após ter feito isso você estará pronto para rodar o seguinte comando no Promp
 
 Após executar o comando acima, abra o seu navegador e acesse o endereço: `http://localhost:8080/`
 
-<img alt="Symbol-Code" height="400" weigth="400" style="border-radius:150px" src=https://user-images.githubusercontent.com/100232025/236636394-8352af5a-6b7c-4052-a7c2-8cc5e1f72869.png">
+<img alt="Symbol-Code" height="400" weigth="400" style="border-radius:150px" src="https://user-images.githubusercontent.com/100232025/236636394-8352af5a-6b7c-4052-a7c2-8cc5e1f72869.png">
 
 ## Referências 
 
